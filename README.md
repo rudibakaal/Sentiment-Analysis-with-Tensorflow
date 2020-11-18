@@ -3,7 +3,7 @@
 ## Motivation
 A binary classification machine learning algorithm for determining Yelp review sentiments.
 
-The dataset contains 1000 Yelp reviews labelled with positive or negative sentiments. [1].
+The dataset contains 1000 Yelp reviews labelled with positive or negative sentiments[1].
 
 The algorithm was able to learn the message vocabulary and idf, then return the term-document matrix through the sklearn TfidfVectorizer class. 
 
