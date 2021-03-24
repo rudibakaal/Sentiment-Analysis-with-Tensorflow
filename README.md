@@ -1,7 +1,7 @@
 # Sentiment-Analysis-with-Tensorflow
 
 ## Motivation
-A binary classification machine learning algorithm for determining Yelp review sentiments.
+A neural network trained on Yelp reviews designed to classify overall review sentiment.
 
 The dataset contains 1000 Yelp reviews labelled with positive or negative sentiments [1].
 
@@ -18,7 +18,7 @@ After 35 epochs the binary and validation classifiers reaches 99% and 82% accura
 ![yelp](https://user-images.githubusercontent.com/48378196/99531983-abbec800-29f7-11eb-8637-dcaa290263ac.png)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) 
+MIT
 
 ## References
 [1] 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015
